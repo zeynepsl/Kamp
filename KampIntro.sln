@@ -33,7 +33,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ternary", "Ternary\Ternary.csproj", "{5596D438-680C-4EC7-A4DF-27DCD710B070}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "deneme", "deneme\deneme.csproj", "{6815E524-E9A9-49EB-9A30-E347AFD45882}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "deneme", "deneme\deneme.csproj", "{6815E524-E9A9-49EB-9A30-E347AFD45882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{0289D3D2-D2B5-4BE2-BA3F-3ED1B4C5681F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{6815E524-E9A9-49EB-9A30-E347AFD45882}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6815E524-E9A9-49EB-9A30-E347AFD45882}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6815E524-E9A9-49EB-9A30-E347AFD45882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0289D3D2-D2B5-4BE2-BA3F-3ED1B4C5681F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0289D3D2-D2B5-4BE2-BA3F-3ED1B4C5681F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0289D3D2-D2B5-4BE2-BA3F-3ED1B4C5681F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0289D3D2-D2B5-4BE2-BA3F-3ED1B4C5681F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

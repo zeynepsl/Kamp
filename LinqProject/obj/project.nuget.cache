@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xmbvny35fMYuBKAFo8J+wXxSUFSO5/RfE0ECkQU68rM2In23NvKkogauaEO9eH+wRUkdE2rlb/Ps7b2GVcf0nQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\KampIntro\\LinqProject\\LinqProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
